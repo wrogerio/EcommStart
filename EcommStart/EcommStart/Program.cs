@@ -1,4 +1,3 @@
-using EcommStart.Client.Pages;
 using EcommStart.Components;
 
 var builder = WebApplication.CreateBuilder(args);

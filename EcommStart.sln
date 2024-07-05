@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommStart", "EcommStart\EcommStart\EcommStart.csproj", "{9BC0AD67-B53C-49BE-9DD8-31B8492A1DD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommStart", "EcommStart\EcommStart\EcommStart.csproj", "{9BC0AD67-B53C-49BE-9DD8-31B8492A1DD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommStart.Client", "EcommStart\EcommStart.Client\EcommStart.Client.csproj", "{0CAD4B72-7016-406D-B2BE-FE96D639036C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommStart.Client", "EcommStart\EcommStart.Client\EcommStart.Client.csproj", "{0CAD4B72-7016-406D-B2BE-FE96D639036C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommStart.Shared", "EcommStart.Shared\EcommStart.Shared.csproj", "{48D875A0-A1E7-45FF-B6A4-62F38A171A23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommStart.Shared", "EcommStart.Shared\EcommStart.Shared.csproj", "{48D875A0-A1E7-45FF-B6A4-62F38A171A23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
